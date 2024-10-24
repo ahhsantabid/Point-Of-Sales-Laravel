@@ -47,9 +47,9 @@
         </table>
     
         <div>
-            <strong>Total: $<span id="overallTotal">0.00</span></strong>
+            <strong>Total: <span id="overallTotal">0.00</span></strong> BDT
         </div>
-    
+<br>
         <button type="button" class="btn btn-info" id="addRow">Add Product</button>
         <button type="submit" class="btn btn-danger">Create Invoice</button>
     </form>
